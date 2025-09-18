@@ -1,0 +1,617 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|e:\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\taikhoanmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\taikhoanmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\servicemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\servicemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\paymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\paymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\pay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\menumonmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\menumonmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\menumon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\menumon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\menumon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\menumon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\customermanagerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\customermanagerment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\computermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\computermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcomputer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formcomputer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formservice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formpay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formpay.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\qua\u0309nli\u0301ti\u00EA\u0323mnet\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6B6C45-97B7-4E3B-8B12-B4EAC51B1733}|Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet.csproj|solutionrelative:qua\u0309nli\u0301ti\u00EA\u0323mnet\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\User.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\User.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\User.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:41:01.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pay.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Pay.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Pay.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Pay.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Pay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:50:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PayManagement.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\PayManagement.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\PayManagement.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\PayManagement.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\PayManagement.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:01:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Program.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Program.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Program.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:24:53.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Service.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Service.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Service.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Service.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:42:50.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceManagement.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\ServiceManagement.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\ServiceManagement.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\ServiceManagement.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\ServiceManagement.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:04:59.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\TaiKhoan.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\TaiKhoan.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:14:34.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoanManagement.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\TaiKhoanManagement.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\TaiKhoanManagement.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\TaiKhoanManagement.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\TaiKhoanManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:24:07.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSource.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\DataSource.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\DataSource.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\DataSource.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\DataSource.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:26:17.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.cs [Design]",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:38:28.781Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.cs [Design]",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:43:00.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwEMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:14:27.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Customer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Customer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Customer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Customer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:15:30.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAtwFgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:55:57.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuMonManagement.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMonManagement.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMonManagement.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMonManagement.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMonManagement.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAqwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:13:25.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuMon.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMon.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMon.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMon.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMon.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:56:47.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuMon.cs [Design]",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMon.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMon.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMon.cs [Design]",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\MenuMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:51:15.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Menu.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Menu.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Menu.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:42:44.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormUser.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAiwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:42:27.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormUser.cs [Design]",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.cs [Design]",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:41:44.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormService.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAQwOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:59:47.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormService.cs [Design]",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.cs [Design]",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:29:52.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormPay.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAADwv40AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:00:11.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormPay.cs [Design]",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.cs [Design]",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:29:51.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormCustomer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormCustomer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormCustomer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormCustomer.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAAAPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:17:16.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormCustomer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormCustomer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormCustomer.cs [Design]",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:35:45.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormComputer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAgwMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:14:38.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormComputer.cs [Design]",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.cs [Design]",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:35:36.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.Designer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.Designer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Form1.Designer.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAtwAkBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:20:14.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerManagerment.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\CustomerManagerment.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\CustomerManagerment.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\CustomerManagerment.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\CustomerManagerment.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:35:55.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ComputerManagement.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\ComputerManagement.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\ComputerManagement.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\ComputerManagement.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\ComputerManagement.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAALcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:41:02.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Computer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Computer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Computer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Computer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvz4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:41:03.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormComputer.Designer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.Designer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.Designer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.Designer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormComputer.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:20:31.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormService.Designer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.Designer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.Designer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.Designer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormService.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:10:33.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormUser.Designer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.Designer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.Designer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.Designer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormUser.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:42:46.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormPay.Designer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.Designer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.Designer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.Designer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormPay.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAMwD4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:17:57.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.Designer.cs",
+              "ToolTip": "E:\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.Designer.cs",
+              "RelativeToolTip": "Qua\u0309nLi\u0301Ti\u00EA\u0323mNet\\FormLogin.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:58:42.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

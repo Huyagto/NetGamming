@@ -1,0 +1,267 @@
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe.config
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.pdb
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.AssemblyReference.cache
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Form1.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormComputer.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormCustomer.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormLogin.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormPay.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormService.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormUser.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.MenuMon.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Properties.Resources.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.GenerateResource.cache
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.CoreCompileInputs.cache
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.exe
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet (1)\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.pdb
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe.config
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.pdb
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.AssemblyReference.cache
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Form1.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormComputer.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormCustomer.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormLogin.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormPay.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormService.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormUser.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.MenuMon.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Properties.Resources.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.GenerateResource.cache
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.CoreCompileInputs.cache
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.exe
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.pdb
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe.config
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.pdb
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.AssemblyReference.cache
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Form1.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormComputer.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormCustomer.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormLogin.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormPay.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormService.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormUser.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.MenuMon.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Properties.Resources.resources
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.GenerateResource.cache
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.CoreCompileInputs.cache
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.exe
+C:\Users\caoch\Documents\Zalo Received Files\QuảnLíTiệmNet\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.pdb
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe.config
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.pdb
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\EnvDTE.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\stdole.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.AssemblyReference.cache
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Form1.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormComputer.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormCustomer.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormLogin.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormPay.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormService.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormUser.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.MenuMon.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Properties.Resources.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.ReportPay.resources
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.GenerateResource.cache
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.CoreCompileInputs.cache
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLí.C9CC7E31.Up2Date
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.exe
+D:\Nhom14_QuanLyPhongTro_PhamHuuDoi-DH52200511_PhamDuyKhanh\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.pdb
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\EnvDTE.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\stdole.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.ReportPay.resources
+E:\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\Qua_nLi_.C9CC7E31.Up2Date
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe.config
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.exe
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\QuảnLíTiệmNet.pdb
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\EnvDTE.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\stdole.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.AssemblyReference.cache
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Form1.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormComputer.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormCustomer.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormLogin.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormPay.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormService.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.FormUser.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.MenuMon.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.Properties.Resources.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.ReportPay.resources
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.GenerateResource.cache
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.csproj.CoreCompileInputs.cache
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLí.C9CC7E31.Up2Date
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.exe
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\obj\Debug\QuảnLíTiệmNet.pdb
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Buffers.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.IO.Pipelines.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Memory.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Text.Json.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.ValueTuple.dll
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Buffers.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.IO.Pipelines.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Memory.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Text.Json.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\caoch\OneDrive\Desktop\QuảnLíTiệmNet\QuảnLíTiệmNet\bin\Debug\System.ValueTuple.xml

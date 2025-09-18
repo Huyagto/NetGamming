@@ -1,0 +1,4 @@
+﻿M001|Trống|Thường|Thường|5000
+M002|Trống|Trung Bình|Stream|5000
+M003|Bảo Trì|Trung Bình|Thường|5000
+M004|Trống|VIP|Couple|10000

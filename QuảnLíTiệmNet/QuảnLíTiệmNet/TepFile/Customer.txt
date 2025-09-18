@@ -1,0 +1,3 @@
+﻿ID001|Gia Huy|123456789|244A Lê Văn Lương, Tân Hưng, Quận 7|giahuynguyen9700@gmail.com|2004-11-18|2024-12-22|VIP|Nam|239992|312|123
+ID002|Gia Huy|123456789|244A Lê Văn Lương, Tân Hưng, Quận 7|giahuynguyen9700@gmail.com|2004-11-18|2024-12-22|VIP|Nam|159678.111111111|123|123
+ID003|Gia Huy|123456789|244A Lê Văn Lương, Tân Hưng, Quận 7|giahuynguyen9700@gmail.com|2004-11-18|2024-12-22|Thường|Nữ|140000|123|1233
